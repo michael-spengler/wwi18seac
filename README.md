@@ -12,10 +12,12 @@ nativescript
 ethereum  
 
 
-## Projekte
+## Projektideen
 lernplattformen e.g. dhbw richie / [fancy flashcard](https://github.com/fancy-flashcard/ffc)  
-kollaborationsplattformen e.g. peer to peer enterprise based on deno ....  
+kollaborationsplattformen e.g. peer to peer enterprise based on deno (ledger on github or ledger on ethereum blockchain)
 verleihplattform e.g. rent-an-outfit / rent-a-boyfriend :) ...   
+nlp plattformen 
+deno & telegram 
 ...
 
 
