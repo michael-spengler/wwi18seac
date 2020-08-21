@@ -20,6 +20,7 @@ nlp plattformen
 deno & telegram   
 counterscams - background: https://youtu.be/le71yVPh4uk & https://youtu.be/ZF-NtGsZ6Zo & rescam.org   
 deno standard logger also logging time + position
+marketing tools
 ...
 
 
