@@ -17,8 +17,9 @@ lernplattformen e.g. dhbw richie / [fancy flashcard](https://github.com/fancy-fl
 kollaborationsplattformen e.g. peer to peer enterprise based on deno (ledger on github or ledger on ethereum blockchain)
 verleihplattform e.g. rent-an-outfit / rent-a-boyfriend :) ...   
 nlp plattformen 
-deno & telegram 
-counterscams - background: https://youtu.be/le71yVPh4uk & https://youtu.be/ZF-NtGsZ6Zo & rescam.org
+deno & telegram   
+counterscams - background: https://youtu.be/le71yVPh4uk & https://youtu.be/ZF-NtGsZ6Zo & rescam.org   
+deno standard logger also logging time + position
 ...
 
 
