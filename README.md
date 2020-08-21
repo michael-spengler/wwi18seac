@@ -18,6 +18,7 @@ kollaborationsplattformen e.g. peer to peer enterprise based on deno (ledger on 
 verleihplattform e.g. rent-an-outfit / rent-a-boyfriend :) ...   
 nlp plattformen 
 deno & telegram 
+counterscams - background: https://youtu.be/le71yVPh4uk & https://youtu.be/ZF-NtGsZ6Zo & rescam.org
 ...
 
 
