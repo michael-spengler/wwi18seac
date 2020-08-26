@@ -10,8 +10,8 @@ vue
 flutter  
 nativescript  
 ethereum  
-telegram
-swift (programming language for IOS & OS X
+telegram  
+swift (programming language for IOS & OS X  
 kotlin (cross-platform programming language that may be used as an alternative to Java for Android App Development)
 
 
