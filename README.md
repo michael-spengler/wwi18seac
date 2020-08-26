@@ -24,5 +24,6 @@ marketing tools
 ...
 
 
-## Abgaben
-Seminararbeit oder Klausur
+## Abgabe
+Portfolioarbeit
+
