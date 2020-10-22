@@ -5,15 +5,18 @@
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |------------|----------|----------|------|
-|  |  |   |  |
+| Nina Meffert | Cookie-Dex |   |  |
 |  |  |   |  |
 |  |  |   |  |
 |  |  |   |  |
 
 
-**Cookie-Dex** 
-Cooles styling 
-https://ionicframework.com
+**Cookie-Dex**  
+Cooles styling  
+https://ionicframework.com  
+
+- Benutzerfreundlichkeit - 1 - 5
+- 
 
 
 **Multiflex**
