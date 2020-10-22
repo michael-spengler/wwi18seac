@@ -5,7 +5,7 @@
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |------------|----------|----------|------|
-| Nina Meffert | Cookie-Dex |   |  |
+| Nina Meffert, Florian Klinke, Kevin Krempels, Matthias Vonend, Rouven Krinke, Andrei Berbescu, Ruben Ruhland | Cookie-Dex |   |  |
 |  |  |   |  |
 |  |  |   |  |
 |  |  |   |  |
