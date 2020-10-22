@@ -1,5 +1,27 @@
 # WWI18SEAC 2020
 
+## wwi18seac-abgaben-2020
+
+
+| Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
+|------------|----------|----------|------|
+|  |  |   |  |
+|  |  |   |  |
+|  |  |   |  |
+|  |  |   |  |
+
+
+**Cookie-Dex** 
+Cooles styling 
+https://ionicframework.com
+
+
+**Multiflex**
+
+
+## Genutzter Notenschlüssel
+Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
+
 ## Technological Topics
 deno.land  
 nlp  
