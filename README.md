@@ -1,7 +1,11 @@
 # WWI18SEAC 2020
 
-## wwi18seac-abgaben-2020
+## Präsentations Termine
+Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 
+...
+
+## Feedback
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |------------|----------|----------|------|
@@ -15,8 +19,8 @@
 Cooles styling  
 https://ionicframework.com  
 
-- Benutzerfreundlichkeit - 1 - 5
-- 
+- Benutzerfreundlichkeit: ...
+- ...
 
 
 **Multiflex**
