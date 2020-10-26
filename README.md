@@ -8,11 +8,15 @@ Cookie-Dex: 12.11.2020 --> 14:00 Uhr
 ## Feedback
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
-|------------|----------|----------|------|
-| Nina Meffert, Florian Klinke, Kevin Krempels, Matthias Vonend, Rouven Krinke, Andrei Berbescu, Ruben Ruhland | Cookie-Dex |   |  |
-|  |  |   |  |
-|  |  |   |  |
-|  |  |   |  |
+|----------------------|----------|----------|------|
+| Nina Meffert | Cookie-Dex |   |  |
+| Florian Klinke | Cookie-Dex |   |  |
+| Kevin Krempels | Cookie-Dex |   |  |
+| Matthias Vonend | Cookie-Dex |   |  | 
+| Rouven Krinke | Cookie-Dex |   |  | 
+| Andrei Berbescu | Cookie-Dex |   |  |
+| Ruben Ruhland | Cookie-Dex |   |  |
+| your name here | Cookie-Dex |   |  |
 
 
 **Cookie-Dex**  
