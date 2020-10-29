@@ -3,6 +3,7 @@
 ## Präsentations Termine
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 Multiflex: 12.11.2020 --> 12:00 Uhr
+Rubiks-Cube: 09.11.2020 --> 14:00 Uhr
 ...
 
 ## Feedback
