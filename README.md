@@ -2,6 +2,7 @@
 
 ## Präsentations Termine
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
+FitnessHub: 12.11.2020 --> 15:00 Uhr
 Multiflex: 12.11.2020 --> 12:00 Uhr
 Rubiks-Cube: 09.11.2020 --> 14:00 Uhr
 ...
@@ -17,6 +18,12 @@ Rubiks-Cube: 09.11.2020 --> 14:00 Uhr
 | Rouven Krinke | Cookie-Dex |   |  | 
 | Andrei Berbescu | Cookie-Dex |   |  |
 | Ruben Ruhland | Cookie-Dex |   |  |
+| Nicolas Fürhaupter | FitnessHub |   |  |
+| Jeannine Bertrand | FitnessHub |   |  |
+| Velichka Popp | FitnessHub |   |  |
+| Jan Eger | FitnessHub |   |  |
+| Moritz Jürgens | FitnessHub |   |  |
+| Timo Scheuermann | FitnessHub |   |  |
 | your name here | Cookie-Dex |   |  |
 
 
@@ -27,6 +34,10 @@ https://ionicframework.com
 - Benutzerfreundlichkeit: ...
 - ...
 
+
+**FitnessHub**  
+[App](https://fitnesshub.app/)  
+[Repo](https://github.com/TimoScheuermann/FitnessHub)
 
 **Multiflex**
 
