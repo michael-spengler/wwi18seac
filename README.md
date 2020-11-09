@@ -5,7 +5,7 @@ Rubiks-Cube: 09.11.2020 --> 14:00 Uhr
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 FitnessHub: 12.11.2020 --> 15:00 Uhr  
 Multiflex: 12.11.2020 --> 12:00 Uhr  
-
+EasyInsta: 12.11.2020 --> 16:00 Uhr  
 ...
 
 ## Feedback
@@ -25,8 +25,13 @@ Multiflex: 12.11.2020 --> 12:00 Uhr
 | Jan Eger | FitnessHub |   |  |
 | Moritz Jürgens | FitnessHub |   |  |
 | Timo Scheuermann | FitnessHub |   |  |
+| Timon Pitz | EasyInsta |   |  |
+| Gian-Luca Beck | EasyInsta |   |  |
+| Daniel Kossack | EasyInsta |   |  |
+| Lilli Michaelis | EasyInsta |   |  |
+| Lukas Ganß | EasyInsta |   |  |
+| Niclas Strauch | EasyInsta |   |  |
 | your name here | Cookie-Dex |   |  |
-
 
 **Cookie-Dex**  
 Cooles styling  
