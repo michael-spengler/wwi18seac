@@ -48,7 +48,7 @@ https://ionicframework.com
 [App](https://fitnesshub.app/)  
 [Repo](https://github.com/TimoScheuermann/FitnessHub)
 
-**Multiflex**
+**Multiflex** <br>
 Team Member: Tristan "Knie gegen Kopf" Emig, Tizian "Cocktail-Shaker" Groß, Marleen "die haben vor mir Angst" Benner, Anton "Me[...] Int[...]net IST gu[...]" Ochel, Anna-Lena "Voted mich doch" Richert, Marcel "Ich spuck dir ins Auge" Mertens, Benno "500€ E-Scooter" Grimm
 
 Frontend: https://github.com/Multiflexxx/client-flex-rent
