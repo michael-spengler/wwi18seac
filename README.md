@@ -1,10 +1,12 @@
 # WWI18SEAC 2020
 
 ## Präsentations Termine
-Rubiks-Cube: 09.11.2020 --> 14:00 Uhr  
+Rubiks-Cube: 09.11.2020 --> 14:00 Uhr 
+
+
+Multiflexxx: 12.11.2020 --> 12:00 Uhr  
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 FitnessHub: 12.11.2020 --> 15:00 Uhr  
-Multiflex: 12.11.2020 --> 12:00 Uhr  
 EasyInsta: 12.11.2020 --> 16:00 Uhr  
 ...
 
@@ -31,6 +33,7 @@ EasyInsta: 12.11.2020 --> 16:00 Uhr
 | Lilli Michaelis | EasyInsta |   |  |
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
+| 7 Leute | Multiflexxx Team |   |  |
 | your name here | Cookie-Dex |   |  |
 
 **Cookie-Dex**  
@@ -45,8 +48,12 @@ https://ionicframework.com
 [App](https://fitnesshub.app/)  
 [Repo](https://github.com/TimoScheuermann/FitnessHub)
 
-**Multiflex**
+**Multiflex** <br>
+Team Member: Tristan "Knie gegen Kopf" Emig, Tizian "Cocktail-Shaker" Groß, Marleen "die haben vor mir Angst" Benner, Anton "Me[...] Int[...]net IST gu[...]" Ochel, Anna-Lena "Voted mich doch" Richert, Marcel "Ich spuck dir ins Auge" Mertens, Benno "500€ E-Scooter" Grimm
 
+Frontend: https://github.com/Multiflexxx/client-flex-rent
+Backend: https://github.com/Multiflexxx/server-flex-rent
+Orga: https://github.com/Multiflexxx/FlexRent
 
 ## Genutzter Notenschlüssel
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
@@ -62,7 +69,7 @@ flutter
 nativescript  
 ethereum  
 telegram  
-swift (programming language for IOS & OS X  
+swift (programming language for IOS & OS X)
 kotlin (cross-platform programming language that may be used as an alternative to Java for Android App Development)
 
 
