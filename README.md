@@ -12,7 +12,7 @@ Gratulation an alle. Super Leistung.
 | Rouven Krinke | Cookie-Dex |   |  | 
 | Andrei Berbescu | Cookie-Dex |   |  |
 | Ruben Ruhland | Cookie-Dex |   |  |
-| Nicolas Fürhaupter | FitnessHub |   |  |
+| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) |   |  |
 | Jeannine Bertrand | FitnessHub |   |  |
 | Velichka Popp | FitnessHub |   |  |
 | Jan Eger | FitnessHub |   |  |
