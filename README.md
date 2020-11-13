@@ -34,7 +34,11 @@ EasyInsta: 12.11.2020 --> 16:00 Uhr
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
 | 7 Leute | Multiflexxx Team |   |  |
-| your name here | Cookie-Dex |   |  |
+| Aaron Schweig | Rubiks-Cube |   |  |
+| Troy Kessler | Rubiks-Cube |   |  |
+| Jan Grübener | Rubiks-Cube |   |  |
+| Michael Angermeier | Rubiks-Cube |   |  |
+| Patrick Mischka | Rubiks-Cube |   |  |
 
 **Cookie-Dex**  
 Cooles styling  
