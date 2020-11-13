@@ -8,7 +8,7 @@ Multiflexxx: 12.11.2020 --> 12:00 Uhr
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 FitnessHub: 12.11.2020 --> 15:00 Uhr  
 EasyInsta: 12.11.2020 --> 16:00 Uhr  
-...
+Smart Supervision: 13.11.2020 --> 17:00 Uhr
 
 ## Feedback
 
@@ -34,7 +34,7 @@ EasyInsta: 12.11.2020 --> 16:00 Uhr
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
 | 7 Leute | Multiflexxx Team |   |  |
-| your name here | Cookie-Dex |   |  |
+| 5 Leute | Smart Supervision |   |  |
 
 **Cookie-Dex**  
 Cooles styling  
@@ -43,6 +43,9 @@ https://ionicframework.com
 - Benutzerfreundlichkeit: ...
 - ...
 
+**Smart Supervision**
+[Repo](https://git.tjbn.de/schuelerverwaltung)
+Team Member: Tobias Jansen, Calogero Meli, Jan Zecevic, Mohammad Ali Alnaser, Mahmoud Almahdi
 
 **FitnessHub**  
 [App](https://fitnesshub.app/)  
