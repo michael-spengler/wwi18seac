@@ -1,12 +1,5 @@
 # WWI18SEAC 2020
-
-## Präsentations Termine
-Rubiks-Cube: 09.11.2020 --> 14:00 Uhr 
-Multiflexxx: 12.11.2020 --> 12:00 Uhr  
-Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
-FitnessHub: 12.11.2020 --> 18:00 Uhr  
-EasyInsta: 13.11.2020 --> 15:00 Uhr  
-Smart Supervision: 13.11.2020 --> 17:00 Uhr
+Gratulation an alle. Super Leistung.
 
 ## Feedback
 
@@ -48,22 +41,6 @@ Smart Supervision: 13.11.2020 --> 17:00 Uhr
 | Jan Grübener | Rubiks-Cube |   |  |
 | Michael Angermeier | Rubiks-Cube |   |  |
 | Patrick Mischka | Rubiks-Cube |   |  |
-
-**Cookie-Dex**  
-Cooles styling  
-https://ionicframework.com  
-
-- Benutzerfreundlichkeit: ...
-- ...
-
-**Smart Supervision**
-[Repo](https://git.tjbn.de/schuelerverwaltung)
-[Demo-Video](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/Demovideo.mp4)
-
-**FitnessHub**  
-[App](https://fitnesshub.app/)  
-[Repo](https://github.com/TimoScheuermann/FitnessHub)
-
 
 ## Genutzter Notenschlüssel
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
