@@ -32,7 +32,13 @@ Smart Supervision: 13.11.2020 --> 17:00 Uhr
 | Lilli Michaelis | EasyInsta |   |  |
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
-| 7 Leute | Multiflexxx Team |   |  |
+| Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)|   |  |
+| Tristan Emig | Team Multiflexxx |   |  |
+| Benno Grimm | Team Multiflexxx |   |  |
+| Tizian Groß | Team Multiflexxx |   |  |
+| Marcel Mertens | Team Multiflexxx |   |  |
+| Anton Ochel | Team Multiflexxx |   |  |
+| Anna-Lena Richert | Team Multiflexxx |   |  |
 | Aaron Schweig | Rubiks-Cube |   |  |
 | Troy Kessler | Rubiks-Cube |   |  |
 | Jan Grübener | Rubiks-Cube |   |  |
