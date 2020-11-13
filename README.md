@@ -2,13 +2,12 @@
 
 ## Präsentations Termine
 Rubiks-Cube: 09.11.2020 --> 14:00 Uhr 
-
-
 Multiflexxx: 12.11.2020 --> 12:00 Uhr  
 Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
 FitnessHub: 12.11.2020 --> 15:00 Uhr  
-EasyInsta: 12.11.2020 --> 16:00 Uhr  
-...
+EasyInsta: 13.11.2020 --> 15:00 Uhr  
+Smart Supervision: 13.11.2020 --> 17:00 Uhr
+
 
 ## Feedback
 
