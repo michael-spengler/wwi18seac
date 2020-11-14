@@ -29,7 +29,7 @@ Gratulation an alle. Super Leistung.
 | Jan Zecevic | Smart Supervision | 1.0  | 80 |
 | Mohammad Ali Alnaser | Smart Supervision | 1.0  | 80 |
 | Mahmoud Almahdi | Smart Supervision | 1.0  | 80 |
-| Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)| 1.0  |  |
+| Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)| 1.0  | 80 |
 | Tristan Emig | Team Multiflexxx | 1.0  | 80 |
 | Benno Grimm | Team Multiflexxx | 1.0  | 80 |
 | Tizian Groß | Team Multiflexxx | 1.0  | 80 |
@@ -49,7 +49,7 @@ Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtsch
 ## Wissenschaftliche Arbeiten
 Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusammen worauf ich besonders viel Wert lege:  
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
-2. Aussagesätze, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind, wirken sich negativ auf die Bewertung aus.  
+2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind, wirken sich negativ auf die Bewertung aus. --> "Hidden assumptions" sind stets aufzudecken und in eigenen Formulierungen zu vermeiden.
 3. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. --> "Storytelling PLUS Wissenschaft" (Victim, Aggressor, Hero, Guide).   
 4. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
 5. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.  
