@@ -5,19 +5,19 @@ Gratulation an alle. Super Leistung.
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |----------------------|----------|----------|------|
-| Nina Meffert | Cookie-Dex |   |  |
-| Florian Klinke | Cookie-Dex |   |  |
-| Kevin Krempels | Cookie-Dex |   |  |
-| Matthias Vonend | Cookie-Dex |   |  | 
-| Rouven Krinke | Cookie-Dex |   |  | 
-| Andrei Berbescu | Cookie-Dex |   |  |
-| Ruben Ruhland | Cookie-Dex |   |  |
-| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) |   |  |
-| Jeannine Bertrand | FitnessHub |   |  |
-| Velichka Popp | FitnessHub |   |  |
-| Jan Eger | FitnessHub |   |  |
-| Moritz Jürgens | FitnessHub |   |  |
-| Timo Scheuermann | FitnessHub |   |  |
+| Rouven Krinke | Cookie-Dex | 1.5  |  | 
+| Andrei Berbescu | Cookie-Dex | 1.5  |  |
+| Ruben Ruhland | Cookie-Dex | 1.5  |  |
+| Nina Meffert | Cookie-Dex | 1.4  |  |
+| Florian Klinke | Cookie-Dex |  1.2 |  |
+| Kevin Krempels | Cookie-Dex | 1.2  |  |
+| Matthias Vonend | Cookie-Dex | 1.0  |  | 
+| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) | 1.0  |  |
+| Jeannine Bertrand | FitnessHub | 1.0  |  |
+| Velichka Popp | FitnessHub | 1.0  |  |
+| Jan Eger | FitnessHub | 1.0  |  |
+| Moritz Jürgens | FitnessHub | 1.0  |  |
+| Timo Scheuermann | FitnessHub | 1.0  |  |
 | Timon Pitz | EasyInsta |   |  |
 | Gian-Luca Beck | EasyInsta |   |  |
 | Daniel Kossack | EasyInsta |   |  |
@@ -36,11 +36,11 @@ Gratulation an alle. Super Leistung.
 | Marcel Mertens | Team Multiflexxx |   |  |
 | Anton Ochel | Team Multiflexxx |   |  |
 | Anna-Lena Richert | Team Multiflexxx |   |  |
-| Aaron Schweig | Rubiks-Cube |   |  |
-| Troy Kessler | Rubiks-Cube |   |  |
-| Jan Grübener | Rubiks-Cube |   |  |
-| Michael Angermeier | Rubiks-Cube |   |  |
-| Patrick Mischka | Rubiks-Cube |   |  |
+| Aaron Schweig | Rubiks-Cube | 1.0  |  |
+| Troy Kessler | Rubiks-Cube | 1.0  |  |
+| Jan Grübener | Rubiks-Cube | 1.0  |  |
+| Michael Angermeier | Rubiks-Cube | 1.0  |  |
+| Patrick Mischka | Rubiks-Cube | 1.0  |  |
 
 ## Genutzter Notenschlüssel
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
