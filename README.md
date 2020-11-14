@@ -5,37 +5,37 @@ Gratulation an alle. Super Leistung.
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |----------------------|----------|----------|------|
-| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) | 1.0  |  |
-| Jeannine Bertrand | FitnessHub | 1.0  |  |
-| Velichka Popp | FitnessHub | 1.0  |  |
-| Jan Eger | FitnessHub | 1.0  |  |
-| Moritz Jürgens | FitnessHub | 1.0  |  |
-| Timo Scheuermann | FitnessHub | 1.0  |  |
-| Rouven Krinke | Cookie-Dex<br />[Projekt](https://github.com/Ermodo/Kochrezepte)<br />[Dokumenation](https://github.com/Ermodo/Kochrezepte-Docs) | 1.5  |  | 
-| Andrei Berbescu | Cookie-Dex | 1.5  |  |
-| Ruben Ruhland | Cookie-Dex | 1.5  |  |
-| Florian Klinke | Cookie-Dex |  1.4 |  |
-| Nina Meffert | Cookie-Dex | 1.2  |  |
-| Kevin Krempels | Cookie-Dex | 1.2  |  |
-| Matthias Vonend | Cookie-Dex | 1.0  |  | 
-| Timon Pitz | EasyInsta |   |  |
-| Gian-Luca Beck | EasyInsta |   |  |
-| Daniel Kossack | EasyInsta |   |  |
-| Lilli Michaelis | EasyInsta |   |  |
-| Lukas Ganß | EasyInsta |   |  |
-| Niclas Strauch | EasyInsta |   |  |
-| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) | 1.0  |  |
-| Calogero Meli | Smart Supervision | 1.0  |  |
-| Jan Zecevic | Smart Supervision | 1.0  |  |
-| Mohammad Ali Alnaser | Smart Supervision | 1.0  |  |
-| Mahmoud Almahdi | Smart Supervision | 1.0  |  |
+| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) | 1.0  | 80 |
+| Jeannine Bertrand | FitnessHub | 1.0  | 80 |
+| Velichka Popp | FitnessHub | 1.0  | 80 |
+| Jan Eger | FitnessHub | 1.0  | 80 |
+| Moritz Jürgens | FitnessHub | 1.0  | 80 |
+| Timo Scheuermann | FitnessHub | 1.0  | 80 |
+| Rouven Krinke | Cookie-Dex<br />[Projekt](https://github.com/Ermodo/Kochrezepte)<br />[Dokumenation](https://github.com/Ermodo/Kochrezepte-Docs) | 1.5  | 73 | 
+| Andrei Berbescu | Cookie-Dex | 1.5  | 73 |
+| Ruben Ruhland | Cookie-Dex | 1.5  | 73 |
+| Florian Klinke | Cookie-Dex |  1.3 | 76 |
+| Nina Meffert | Cookie-Dex | 1.2  | 77 |
+| Kevin Krempels | Cookie-Dex | 1.2  | 77 |
+| Matthias Vonend | Cookie-Dex | 1.0  | 80 | 
+| Timon Pitz | EasyInsta | 1.2  | 77 |
+| Gian-Luca Beck | EasyInsta | 1.2  | 77 |
+| Daniel Kossack | EasyInsta | 1.2  | 77 |
+| Lilli Michaelis | EasyInsta | 1.2  | 77 |
+| Lukas Ganß | EasyInsta | 1.2  | 77 |
+| Niclas Strauch | EasyInsta | 1.2  | 77 |
+| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) | 1.0  | 80 |
+| Calogero Meli | Smart Supervision | 1.0  | 80 |
+| Jan Zecevic | Smart Supervision | 1.0  | 80 |
+| Mohammad Ali Alnaser | Smart Supervision | 1.0  | 80 |
+| Mahmoud Almahdi | Smart Supervision | 1.0  | 80 |
 | Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)| 1.0  |  |
-| Tristan Emig | Team Multiflexxx | 1.0  |  |
-| Benno Grimm | Team Multiflexxx | 1.0  |  |
-| Tizian Groß | Team Multiflexxx | 1.0  |  |
-| Marcel Mertens | Team Multiflexxx | 1.0  |  |
-| Anton Ochel | Team Multiflexxx | 1.0  |  |
-| Anna-Lena Richert | Team Multiflexxx | 1.0  |  |
+| Tristan Emig | Team Multiflexxx | 1.0  | 80 |
+| Benno Grimm | Team Multiflexxx | 1.0  | 80 |
+| Tizian Groß | Team Multiflexxx | 1.0  | 80 |
+| Marcel Mertens | Team Multiflexxx | 1.0  | 80 |
+| Anton Ochel | Team Multiflexxx | 1.0  | 80 |
+| Anna-Lena Richert | Team Multiflexxx | 1.0  | 80 |
 | Aaron Schweig | Rubiks-Cube |   |  |
 | Troy Kessler | Rubiks-Cube |   |  |
 | Jan Grübener | Rubiks-Cube |   |  |
