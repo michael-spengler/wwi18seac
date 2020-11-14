@@ -1,49 +1,57 @@
 # WWI18SEAC 2020
-
-## Präsentations Termine
-Rubiks-Cube: 09.11.2020 --> 14:00 Uhr 
-Multiflexxx: 12.11.2020 --> 12:00 Uhr  
-Cookie-Dex: 12.11.2020 --> 14:00 Uhr  
-FitnessHub: 12.11.2020 --> 18:00 Uhr  
-EasyInsta: 13.11.2020 --> 15:00 Uhr  
-Smart Supervision: 13.11.2020 --> 17:00 Uhr
-
+Gratulation an alle. Super Leistung.
 
 ## Feedback
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |----------------------|----------|----------|------|
-| Nina Meffert | Cookie-Dex |   |  |
-| Florian Klinke | Cookie-Dex |   |  |
-| Kevin Krempels | Cookie-Dex |   |  |
-| Matthias Vonend | Cookie-Dex |   |  | 
-| Rouven Krinke | Cookie-Dex |   |  | 
-| Andrei Berbescu | Cookie-Dex |   |  |
-| Ruben Ruhland | Cookie-Dex |   |  |
-| Nicolas Fürhaupter | FitnessHub |   |  |
-| Jeannine Bertrand | FitnessHub |   |  |
-| Velichka Popp | FitnessHub |   |  |
-| Jan Eger | FitnessHub |   |  |
-| Moritz Jürgens | FitnessHub |   |  |
-| Timo Scheuermann | FitnessHub |   |  |
+| Rouven Krinke | Cookie-Dex | 1.5  |  | 
+| Andrei Berbescu | Cookie-Dex | 1.5  |  |
+| Ruben Ruhland | Cookie-Dex | 1.5  |  |
+| Florian Klinke | Cookie-Dex |  1.4 |  |
+| Nina Meffert | Cookie-Dex | 1.2  |  |
+| Kevin Krempels | Cookie-Dex | 1.2  |  |
+| Matthias Vonend | Cookie-Dex | 1.0  |  | 
+| Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) | 1.0  |  |
+| Jeannine Bertrand | FitnessHub | 1.0  |  |
+| Velichka Popp | FitnessHub | 1.0  |  |
+| Jan Eger | FitnessHub | 1.0  |  |
+| Moritz Jürgens | FitnessHub | 1.0  |  |
+| Timo Scheuermann | FitnessHub | 1.0  |  |
 | Timon Pitz | EasyInsta |   |  |
 | Gian-Luca Beck | EasyInsta |   |  |
 | Daniel Kossack | EasyInsta |   |  |
 | Lilli Michaelis | EasyInsta |   |  |
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
-| 7 Leute | Multiflexxx Team |   |  |
-| Aaron Schweig | Rubiks-Cube |   |  |
-| Troy Kessler | Rubiks-Cube |   |  |
-| Jan Grübener | Rubiks-Cube |   |  |
-| Michael Angermeier | Rubiks-Cube |   |  |
-| Patrick Mischka | Rubiks-Cube |   |  |
-
+| Tobias Jansen | Smart Supervision |   |  |
+| Calogero Meli | Smart Supervision |   |  |
+| Jan Zecevic | Smart Supervision |   |  |
+| Mohammad Ali Alnaser | Smart Supervision |   |  |
+| Mahmoud Almahdi | Smart Supervision |   |  |
+| Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)|   |  |
+| Tristan Emig | Team Multiflexxx |   |  |
+| Benno Grimm | Team Multiflexxx |   |  |
+| Tizian Groß | Team Multiflexxx |   |  |
+| Marcel Mertens | Team Multiflexxx |   |  |
+| Anton Ochel | Team Multiflexxx |   |  |
+| Anna-Lena Richert | Team Multiflexxx |   |  |
+| Aaron Schweig | Rubiks-Cube | 1.0  |  |
+| Troy Kessler | Rubiks-Cube | 1.0  |  |
+| Jan Grübener | Rubiks-Cube | 1.0  |  |
+| Michael Angermeier | Rubiks-Cube | 1.0  |  |
+| Patrick Mischka | Rubiks-Cube | 1.0  |  |
 
 ## Genutzter Notenschlüssel
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
 
 
-## Project Ideas
-see issues on this repository
+## Wissenschaftliche Arbeiten
+Worauf ich besonders viel Wert lege:  
+1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten  
+2. Aussagesätze, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit hergeleitet oder durch Quellenverweise nachgewiesen wurden, sind zu vermeiden. Jeder Einzelne davon wirkt sich negativ auf die Bewertung aus  
+3. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. "Storytelling PLUS Wissenschaft"  
+
+
+
 
