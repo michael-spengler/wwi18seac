@@ -24,7 +24,7 @@ Gratulation an alle. Super Leistung.
 | Lilli Michaelis | EasyInsta |   |  |
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
-| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/Demovideo.mp4) |   |  |
+| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) |   |  |
 | Calogero Meli | Smart Supervision |   |  |
 | Jan Zecevic | Smart Supervision |   |  |
 | Mohammad Ali Alnaser | Smart Supervision |   |  |
