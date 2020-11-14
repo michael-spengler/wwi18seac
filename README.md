@@ -24,11 +24,11 @@ Gratulation an alle. Super Leistung.
 | Lilli Michaelis | EasyInsta |   |  |
 | Lukas Ganß | EasyInsta |   |  |
 | Niclas Strauch | EasyInsta |   |  |
-| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) |   |  |
-| Calogero Meli | Smart Supervision |   |  |
-| Jan Zecevic | Smart Supervision |   |  |
-| Mohammad Ali Alnaser | Smart Supervision |   |  |
-| Mahmoud Almahdi | Smart Supervision |   |  |
+| Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) | 1.0  |  |
+| Calogero Meli | Smart Supervision | 1.0  |  |
+| Jan Zecevic | Smart Supervision | 1.0  |  |
+| Mohammad Ali Alnaser | Smart Supervision | 1.0  |  |
+| Mahmoud Almahdi | Smart Supervision | 1.0  |  |
 | Marleen Benner | Team Multiflexxx<br>[Dokumentation](https://github.com/Multiflexxx/FlexRent)<br>[Demo Video](https://youtu.be/zXzQHtgxkrM)| 1.0  |  |
 | Tristan Emig | Team Multiflexxx | 1.0  |  |
 | Benno Grimm | Team Multiflexxx | 1.0  |  |
