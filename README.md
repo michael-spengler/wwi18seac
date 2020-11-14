@@ -5,7 +5,7 @@ Gratulation an alle. Super Leistung.
 
 | Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |----------------------|----------|----------|------|
-| Rouven Krinke | Cookie-Dex | 1.5  |  | 
+| Rouven Krinke | Cookie-Dex<br />[Projekt](https://github.com/Ermodo/Kochrezepte)<br />[Dokumenation](https://github.com/Ermodo/Kochrezepte-Docs) | 1.5  |  | 
 | Andrei Berbescu | Cookie-Dex | 1.5  |  |
 | Ruben Ruhland | Cookie-Dex | 1.5  |  |
 | Florian Klinke | Cookie-Dex |  1.4 |  |
