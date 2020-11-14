@@ -8,8 +8,8 @@ Gratulation an alle. Super Leistung.
 | Rouven Krinke | Cookie-Dex | 1.5  |  | 
 | Andrei Berbescu | Cookie-Dex | 1.5  |  |
 | Ruben Ruhland | Cookie-Dex | 1.5  |  |
-| Nina Meffert | Cookie-Dex | 1.4  |  |
-| Florian Klinke | Cookie-Dex |  1.2 |  |
+| Florian Klinke | Cookie-Dex |  1.4 |  |
+| Nina Meffert | Cookie-Dex | 1.2  |  |
 | Kevin Krempels | Cookie-Dex | 1.2  |  |
 | Matthias Vonend | Cookie-Dex | 1.0  |  | 
 | Nicolas Fürhaupter | FitnessHub<br />[Dokumentation](https://github.com/TimoScheuermann/FitnessHub)<br />[Demo Video](https://youtu.be/9lRLQRGrHpg) | 1.0  |  |
@@ -46,6 +46,12 @@ Gratulation an alle. Super Leistung.
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
 
 
-## Project Ideas
-see issues on this repository
+## Wissenschaftliche Arbeiten
+Worauf ich besonders viel Wert lege:  
+1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten  
+2. Aussagesätze, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit hergeleitet oder durch Quellenverweise nachgewiesen wurden, sind zu vermeiden. Jeder Einzelne davon wirkt sich negativ auf die Bewertung aus  
+3. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. "Storytelling PLUS Wissenschaft"  
+
+
+
 
