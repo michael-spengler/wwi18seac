@@ -18,12 +18,12 @@ Gratulation an alle. Super Leistung.
 | Nina Meffert | Cookie-Dex | 1.2  | 77 |
 | Kevin Krempels | Cookie-Dex | 1.2  | 77 |
 | Matthias Vonend | Cookie-Dex | 1.0  | 80 | 
-| Timon Pitz | EasyInsta | 1.2  | 77 |
-| Gian-Luca Beck | EasyInsta | 1.2  | 77 |
-| Daniel Kossack | EasyInsta | 1.2  | 77 |
-| Lilli Michaelis | EasyInsta | 1.2  | 77 |
-| Lukas Ganß | EasyInsta | 1.2  | 77 |
-| Niclas Strauch | EasyInsta | 1.2  | 77 |
+| Timon Pitz | EasyInsta<br>[Dokumentation](https://github.com/timonpitz/EasyInsta)<br>[Demo Video](https://youtu.be/joys6F5tcio)| 1.0  | 80 |
+| Gian-Luca Beck | EasyInsta | 1.0  | 80 |
+| Daniel Kossack | EasyInsta | 1.5  | 73 |
+| Lilli Michaelis | EasyInsta | 1.0  | 80 |
+| Lukas Ganß | EasyInsta | 1.0  | 80 |
+| Niclas Strauch | EasyInsta | 1.8  | 69 |
 | Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) | 1.0  | 80 |
 | Calogero Meli | Smart Supervision | 1.0  | 80 |
 | Jan Zecevic | Smart Supervision | 1.0  | 80 |
