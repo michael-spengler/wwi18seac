@@ -56,11 +56,12 @@ Hier Die Videos zu den von Euch entwickelten Apps im Überblick:
 ## Wissenschaftliche Arbeiten
 Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusammen worauf ich besonders viel Wert lege:  
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
-2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind, wirken sich negativ auf die Bewertung aus. --> "Hidden assumptions" sind stets aufzudecken und in eigenen Formulierungen zu vermeiden.
+2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind - aka "Hidden assumptions" - sind aufzudecken und in eigenen Formulierungen zu vermeiden.  
 3. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
 4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.     
 5. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. (1.0 Anregung) --> Exkurs: "Storytelling PLUS Wissenschaft" (Victim, Aggressor, Hero, Guide).    
-6. Zur Entwicklung eigenständiger Ansätze empfehle ich: **"Adapt what is useful, discard what is useless, and add what is specifically your own."**
+6. Zur Entwicklung eigenständiger Ansätze empfehle ich:  
+**"Adapt what is useful, discard what is useless, and add what is specifically your own."**
 
 
 ### Q & A
@@ -69,3 +70,12 @@ Historie hilft oft dabei ein ganzheitliches Bild zu entwickeln.
 
 **Welchen Zitierstil empfehlen Sie?**  
 Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0EA7NJA&feature=youtu.be) an.  
+
+**Wie läuft die Zusammenarbeit idealerweise ab?**  
+Ich stehe Euch grundsätzlich 24/7 zur Verfügung. Ihr erreicht mich stets am leichtesten per Telegram. Ich empfehle Euch häufige Zwischenfeedbacks einzuholen.  
+
+**Haben Sie weitere Tipps?**  
+Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
+
+
+
