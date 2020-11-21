@@ -1,5 +1,11 @@
 # WWI18SEAC 2020
-Gratulation an alle. Super Leistung.
+Gratulation an alle. Super Leistung.  
+
+Hier Die Videos zu den von Euch entwickelten Apps im Überblick:  
+1. [FitnessHub](https://www.youtube.com/watch?v=9lRLQRGrHpg&feature=youtu.be)  
+2. [EasyInsta](https://www.youtube.com/watch?v=joys6F5tcio&feature=youtu.be)  
+3. [SmartSupervision](https://www.youtube.com/watch?v=Sp4t8el68hs&feature=youtu.be)  
+4. [FlexRent](https://www.youtube.com/watch?v=zXzQHtgxkrM&feature=youtu.be)  
 
 ## Feedback
 
@@ -40,10 +46,11 @@ Gratulation an alle. Super Leistung.
 | Troy Kessler | Rubiks-Cube |   |  |
 | Jan Grübener | Rubiks-Cube |   |  |
 | Michael Angermeier | Rubiks-Cube |   |  |
-| Patrick Mischka | Rubiks-Cube |  |  |
+| Patrick Mischka | Rubiks-Cube |  |  |  
+  
+  
 
-## Genutzter Notenschlüssel
-Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
+[Genutzter Notenschlüssel](https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf)
 
 
 ## Wissenschaftliche Arbeiten
