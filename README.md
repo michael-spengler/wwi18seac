@@ -50,11 +50,15 @@ Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtsch
 Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusammen worauf ich besonders viel Wert lege:  
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
 2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind, wirken sich negativ auf die Bewertung aus. --> "Hidden assumptions" sind stets aufzudecken und in eigenen Formulierungen zu vermeiden.
-3. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. --> "Storytelling PLUS Wissenschaft" (Victim, Aggressor, Hero, Guide).   
-4. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
-5. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.  
+3. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
+4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.     
+5. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. (1.0 Anregung) --> Exkurs: "Storytelling PLUS Wissenschaft" (Victim, Aggressor, Hero, Guide).    
 6. Zur Entwicklung eigenständiger Ansätze empfehle ich: **"Adapt what is useful, discard what is useless, and add what is specifically your own."**
 
 
+### Q & A
+**Inwiefern ist die Darstellung der historischen Entwicklung eines Themas erforderlich?**  
+Historie hilft oft dabei ein ganzheitliches Bild zu entwickeln.  
 
-
+**Welchen Zitierstil empfehlen Sie?**  
+Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0EA7NJA&feature=youtu.be) an.  
