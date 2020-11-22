@@ -42,11 +42,11 @@ Hier Die Videos zu den von Euch entwickelten Apps im Überblick:
 | Marcel Mertens | Team Multiflexxx | 1.0  | 80 |
 | Anton Ochel | Team Multiflexxx | 1.0  | 80 |
 | Anna-Lena Richert | Team Multiflexxx | 1.0  | 80 |
-| Aaron Schweig | Rubiks-Cube |   |  |
-| Troy Kessler | Rubiks-Cube |   |  |
-| Jan Grübener | Rubiks-Cube |   |  |
-| Michael Angermeier | Rubiks-Cube |   |  |
-| Patrick Mischka | Rubiks-Cube |  |  |  
+| Aaron Schweig | [Rubiks-Cube](https://www.youtube.com/watch?v=a4yEbxxOwKM&feature=youtu.be) | 1.0 | 80 |
+| Troy Kessler | Rubiks-Cube | 1.0  | 80 |
+| Jan Grübener | Rubiks-Cube | 1.0  | 80 |
+| Michael Angermeier | Rubiks-Cube | 1.0  | 80 |
+| Patrick Mischka | Rubiks-Cube | 1.0 | 80 |  
   
   
 
@@ -69,7 +69,7 @@ Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusamme
 Historie hilft oft dabei ein ganzheitliches Bild zu entwickeln.  
 
 **Welchen Zitierstil empfehlen Sie?**  
-Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0EA7NJA&feature=youtu.be) an.  
+Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0EA7NJA&feature=youtu.be) an --> deutscher Zitierstil oder Harvardzitierstil.
 
 **Wie läuft die Zusammenarbeit idealerweise ab?**  
 Ich stehe Euch grundsätzlich 24/7 zur Verfügung. Ihr erreicht mich stets per Telegram. Solltet Ihr - wider Erwarten - länger als 24 Stunden auf eine Antwort von mir warten, sendet mir bitte einen oder bei Bedarf mehrere reminders. Ich empfehle Euch häufige Zwischenfeedbacks einzuholen.  
