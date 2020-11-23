@@ -51,7 +51,12 @@ Musclery: 25.11.2020 --> 18:30 Uhr
 | Troy Kessler | Rubiks-Cube | 1.0  | 
 | Jan Grübener | Rubiks-Cube | 1.0  | 
 | Michael Angermeier | Rubiks-Cube | 1.0  | 
-| Patrick Mischka | Rubiks-Cube | 1.0 | 
+| Patrick Mischka | Rubiks-Cube | 1.0 |
+| Lukas Blank | Musclery |  | 
+| Dennis Neumann | Musclery |  | 
+| Julie Pines | Musclery |  | 
+| Tobias Lorenz | Musclery |  |
+| Arthur Siebert | Musclery |  | 
   
 
 Im Rahmen von **Entwicklung Mobiler Applikationen Teil 2** hat jeder von Euch die Wahl an der jeweils bisherigen App weiterzuarbeiten, die Gruppe zu wechseln oder eine komplett neue mobile App zu entwickeln. Die maximal erreichbare Gesamtpunktezahl (Teil 1 + Teil 2) beträgt 120 --> 
