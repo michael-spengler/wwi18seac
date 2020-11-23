@@ -8,6 +8,10 @@ Gratulation an alle. Super Leistung.
 4. [FlexRent](https://www.youtube.com/watch?v=zXzQHtgxkrM&feature=youtu.be)    
 5. [Rubiks-Cube](https://www.youtube.com/watch?v=a4yEbxxOwKM&feature=youtu.be)  
 
+## Präsentation-Termin
+
+Musclery: 25.11.2020 --> 18:30 Uhr
+
 ## Feedback
 
 | Teilnehmer | Entwickelte Web App | Note |
