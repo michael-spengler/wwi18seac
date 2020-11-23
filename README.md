@@ -1,7 +1,7 @@
 # WWI18SEAC 2020 - Entwicklung Mobiler Applikationen Teil 1
 Gratulation an alle. Super Leistung.  
 
-Hier Die Videos zu den von Euch entwickelten Apps im Überblick:  
+## Demo Videos 
 1. [FitnessHub](https://www.youtube.com/watch?v=9lRLQRGrHpg&feature=youtu.be)  
 2. [EasyInsta](https://www.youtube.com/watch?v=joys6F5tcio&feature=youtu.be)  
 3. [SmartSupervision](https://www.youtube.com/watch?v=Sp4t8el68hs&feature=youtu.be)  
