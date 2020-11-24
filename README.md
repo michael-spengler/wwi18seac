@@ -84,6 +84,9 @@ Ich schließe mich der Meinung [im Video](https://www.youtube.com/watch?v=d-zk0E
 **Wie läuft die Zusammenarbeit idealerweise ab?**  
 Ich stehe Euch grundsätzlich 24/7 zur Verfügung. Ihr erreicht mich stets per Telegram. Solltet Ihr - wider Erwarten - länger als 24 Stunden auf eine Antwort von mir warten, sendet mir bitte einen oder bei Bedarf mehrere reminders. Ich empfehle Euch häufige Zwischenfeedbacks einzuholen.  
 
+**Wie stehen Sie zu Vorwärts- & Rückwärtsverweisen?**  
+Ich schließe mich [diesen Empfehlungen](https://www.thema-abschlussarbeit.de/querverweise-in-der-thesis/) an.  
+
 **Haben Sie weitere Tipps?**  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
 
