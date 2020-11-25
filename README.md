@@ -52,7 +52,7 @@ Musclery: 25.11.2020 --> 18:30 Uhr
 | Jan Grübener | Rubiks-Cube | 1.0  | 
 | Michael Angermeier | Rubiks-Cube | 1.0  | 
 | Patrick Mischka | Rubiks-Cube | 1.0 |
-| Lukas Blank | Musclery |  | 
+| Lukas Blank | [Musclery](https://github.com/Dennis2512/Musclery-Main) [Documentation](https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit#heading=h.nudg3dllkm0k) |  | 
 | Dennis Neumann | Musclery |  | 
 | Julie Pines | Musclery |  | 
 | Tobias Lorenz | Musclery |  |
