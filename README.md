@@ -8,9 +8,6 @@ Gratulation an alle. Super Leistung.
 4. [FlexRent](https://www.youtube.com/watch?v=zXzQHtgxkrM&feature=youtu.be)    
 5. [Rubiks-Cube](https://www.youtube.com/watch?v=a4yEbxxOwKM&feature=youtu.be)  
 
-## Präsentation-Termin
-
-Musclery: 25.11.2020 --> 18:30 Uhr
 
 ## Feedback
 
@@ -24,7 +21,6 @@ Musclery: 25.11.2020 --> 18:30 Uhr
 | Timo Scheuermann | FitnessHub | 1.0  | 
 | Rouven Krinke | Cookie-Dex<br />[Projekt](https://github.com/Ermodo/Kochrezepte)<br />[Dokumenation](https://github.com/Ermodo/Kochrezepte-Docs) | 1.5  | 
 | Andrei Berbescu | Cookie-Dex | 1.5  | 
-| Ruben Ruhland | Cookie-Dex | 1.5  | 
 | Florian Klinke | Cookie-Dex |  1.3 | 
 | Nina Meffert | Cookie-Dex | 1.2  | 
 | Kevin Krempels | Cookie-Dex | 1.2  | 
