@@ -34,7 +34,6 @@ Musclery: 25.11.2020 --> 18:30 Uhr
 | Daniel Kossack | EasyInsta | 1.5  | 
 | Lilli Michaelis | EasyInsta | 1.0  | 
 | Lukas Ganß | EasyInsta | 1.0  | 
-| Niclas Strauch | EasyInsta | 1.8  | 
 | Tobias Jansen | Smart Supervision<br>[Dokumentation](https://git.tjbn.de/schuelerverwaltung/documentation/-/blob/master/README.md)<br>[Demo Video](https://youtu.be/Sp4t8el68hs) | 1.0  | 
 | Calogero Meli | Smart Supervision | 1.0  | 
 | Jan Zecevic | Smart Supervision | 1.0  | 
@@ -52,11 +51,11 @@ Musclery: 25.11.2020 --> 18:30 Uhr
 | Jan Grübener | Rubiks-Cube | 1.0  | 
 | Michael Angermeier | Rubiks-Cube | 1.0  | 
 | Patrick Mischka | Rubiks-Cube | 1.0 |
-| Lukas Blank | [Musclery](https://github.com/Dennis2512/Musclery-Main) [Documentation](https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit#heading=h.nudg3dllkm0k) |  | 
-| Dennis Neumann | Musclery |  | 
-| Julie Pines | Musclery |  | 
-| Tobias Lorenz | Musclery |  |
-| Arthur Siebert | Musclery |  | 
+| Lukas Blank | [Musclery](https://github.com/Dennis2512/Musclery-Main) [Documentation](https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit#heading=h.nudg3dllkm0k) | 1.1 | 
+| Dennis Neumann | Musclery | 1.1 | 
+| Julie Pines | Musclery | 1.1 | 
+| Tobias Lorenz | Musclery | 1.1 |
+| Arthur Siebert | Musclery | 1.1 | 
   
 
 Im Rahmen von **Entwicklung Mobiler Applikationen Teil 2** hat jeder von Euch die Wahl an der jeweils bisherigen App weiterzuarbeiten, die Gruppe zu wechseln oder eine komplett neue mobile App zu entwickeln. Die maximal erreichbare Gesamtpunktezahl (Teil 1 + Teil 2) beträgt 120 --> 
