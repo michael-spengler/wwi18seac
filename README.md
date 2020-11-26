@@ -65,7 +65,8 @@ Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusamme
 3. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
 4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.     
 5. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. Exkurs: "Storytelling PLUS Wissenschaft" - e.g. victim, aggressor, hero, guide - (1.0 Anregung).    
-6. Zur Entwicklung eigenständiger Ansätze empfehle ich:  
+6. Ich empfehle Euch unterschiedliche Methoden / Werkzeuge anzuwenden (je nach Kontext z.B. ein Value Proposition Canvas, eine User Story Map, eine SWOT Analyse, eine Nutzwertanalys, den Debating Club als Workshop Element etc.) --> Methodenkompetenz nutzen.   
+7. Zur Entwicklung eigenständiger Ansätze empfehle ich:  
 **"Adapt what is useful, discard what is useless, and add what is specifically your own."**
 
 
