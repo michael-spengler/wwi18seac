@@ -7,6 +7,7 @@ Gratulation an alle. Super Leistung.
 3. [SmartSupervision](https://www.youtube.com/watch?v=Sp4t8el68hs&feature=youtu.be)  
 4. [FlexRent](https://www.youtube.com/watch?v=zXzQHtgxkrM&feature=youtu.be)    
 5. [Rubiks-Cube](https://www.youtube.com/watch?v=a4yEbxxOwKM&feature=youtu.be)  
+6. [Musclery](https://github.com/Dennis2512/Musclery-Main/tree/master/promotion-video)
 
 
 ## Feedback
@@ -48,7 +49,7 @@ Gratulation an alle. Super Leistung.
 | Michael Angermeier | Rubiks-Cube | 1.0  | 
 | Patrick Mischka | Rubiks-Cube | 1.0 |
 | Lukas Blank | [Musclery](https://github.com/Dennis2512/Musclery-Main) [Documentation](https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit#heading=h.nudg3dllkm0k) | 1.1 | 
-| Dennis Neumann | Musclery | 1.1 | 
+| Dennis Neumann | [Musclery](https://github.com/Dennis2512/Musclery-Main) <br> [Promotion Video](https://github.com/Dennis2512/Musclery-Main/tree/master/promotion-video) | 1.1 | 
 | Julie Pines | Musclery | 1.1 | 
 | Tobias Lorenz | Musclery | 1.1 |
 | Arthur Siebert | Musclery | 1.1 | 
