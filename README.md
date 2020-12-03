@@ -7,8 +7,8 @@ Gratulation an alle. Super Leistung.
 3. [SmartSupervision](https://www.youtube.com/watch?v=Sp4t8el68hs&feature=youtu.be)  
 4. [FlexRent](https://www.youtube.com/watch?v=zXzQHtgxkrM&feature=youtu.be)    
 5. [Rubiks-Cube](https://www.youtube.com/watch?v=a4yEbxxOwKM&feature=youtu.be)  
-6. [Musclery](https://github.com/Dennis2512/Musclery-Main/tree/master/promotion-video)
-
+6. [Musclery](https://github.com/Dennis2512/Musclery-Main/tree/master/promotion-video)  
+7. Cookie-Dex --> no video available --> documentation see below.
 
 ## Feedback
 
