@@ -84,6 +84,14 @@ Ich stehe Euch grundsätzlich 24/7 zur Verfügung. Ihr erreicht mich stets per T
 **Wie stehen Sie zu Vorwärts- & Rückwärtsverweisen?**  
 Ich schließe mich [diesen Empfehlungen](https://www.thema-abschlussarbeit.de/querverweise-in-der-thesis/) an.  
 
+**Wo finde ich Literatur zu top-aktuellen Themen?**
+Das ist eine challenge. Evtl. helfen die folgenden Links:
+1. https://link.springer.com/ 
+2. https://scholar.google.de/  
+
+**Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**
+Abstract + Fazit checken und dann überlegen ob es relevant ist.
+
 **Haben Sie weitere Tipps?**  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
 
