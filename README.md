@@ -84,13 +84,20 @@ Ich stehe Euch grundsätzlich 24/7 zur Verfügung. Ihr erreicht mich stets per T
 **Wie stehen Sie zu Vorwärts- & Rückwärtsverweisen?**  
 Ich schließe mich [diesen Empfehlungen](https://www.thema-abschlussarbeit.de/querverweise-in-der-thesis/) an.  
 
-**Wo finde ich Literatur zu top-aktuellen Themen?**
+**Wo finde ich Literatur zu top-aktuellen Themen?**  
 Das ist eine challenge. Evtl. helfen die folgenden Links:
 1. https://link.springer.com/ 
 2. https://scholar.google.de/  
 
-**Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**
+**Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**  
 Abstract + Fazit checken und dann überlegen ob es relevant ist.
+
+**Meine BA baut teilweise auf Erkenntnissen aus meiner PA auf. Soll ich an entsprechenden Stellen direkt darauf verweisen?**  
+Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öffentlich zugänglich ist. Stattdessen scheint es sinnvoll die PA in den Referenzen mit aufzunehmen und im Text beispielsweise folgendermaßen zu referenzieren: "In [PA1] wurden die Ergebnisse aus [Q1, Q2, Q3] folgendermaßen zusammengefasst...". 
+
+**Ich stehe ganz am Anfang und habe Schwierigkeiten mit der Strukturierung. Was kann ich tun?**  
+In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden und nebenbei ein [Glossar](https://www.lektorat-bachelorarbeit.de/glossar-erstellen/) anzufertigen. Selbst wenn einzelne Begriffe darin sich später als relativ irrelevant herauskristallisieren und vielleicht sogar wieder aus dem Glossar gelöscht werden, hilft dies oft bei der Erarbeitung der Inhalte und der Struktur.
+
 
 **Haben Sie weitere Tipps?**  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
