@@ -98,6 +98,8 @@ Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öff
 **Ich stehe ganz am Anfang und habe Schwierigkeiten mit der Strukturierung. Was kann ich tun?**  
 In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden und nebenbei ein [Glossar](https://www.lektorat-bachelorarbeit.de/glossar-erstellen/) anzufertigen. Selbst wenn einzelne Begriffe darin sich später als relativ irrelevant herauskristallisieren und vielleicht sogar wieder aus dem Glossar gelöscht werden, hilft dies oft bei der Erarbeitung der Inhalte und der Struktur.
 
+**Welche Tipps haben Sie für die Formulierung der Forschungsfrage?**
+Hier verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/). Zur Erarbeitung der Forschungsfrage stehe ich auch stets gerne zum Brainstorming zur Verfügung.
 
 **Haben Sie weitere Tipps?**  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
