@@ -86,8 +86,9 @@ Ich schließe mich [diesen Empfehlungen](https://www.thema-abschlussarbeit.de/qu
 
 **Wo finde ich Literatur zu top-aktuellen Themen?**  
 Das ist eine challenge. Evtl. helfen die folgenden Links:
-1. https://link.springer.com/ 
-2. https://scholar.google.de/  
+1. https://bsz.ibs-bw.de/aDISWeb/app?service=direct/0/Home/$DirectLink&sp=SOPAC43
+2. https://link.springer.com/ 
+3. https://scholar.google.de/  
 
 **Wie kann ich schnell herausfinden ob eine Quelle wertvoll für mich sein kann?**  
 Abstract + Fazit checken und dann überlegen ob es relevant ist.
