@@ -103,7 +103,7 @@ In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden
 Hier verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/). 
 Ich empfehle frühzeitig eine Liste zu möglichen Forschungsfragen anzufertigen und diese möglichst täglich zu ergänzen. Dadurch erhältst Du ein klareres Bild zu Deinem Thema und übst Dich darin dieses aus unterschiedlichen Perspektiven zu begreifen.  
 
-Zur Erarbeitung der Forschungsfrage stehe ich auch stets gerne zum gemeinsamen Brainstorming zur Verfügung.
+Zur Erarbeitung möglicher Forschungsfragen stehe ich auch stets gerne zum gemeinsamen Brainstorming zur Verfügung.
 
 **Welche Methodik passt am besten zu meinem Thema und mir?**  
 Nachdem Du Dir einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft hast, und eine Liste zu möglichen Forschungsfragen angefertigt hast, empfehle ich Dir Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Dir dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
