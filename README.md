@@ -63,7 +63,7 @@ Im Rahmen von **Entwicklung Mobiler Applikationen Teil 2** hat jeder von Euch di
 Da einige von Euch ihre Bachelorarbeit bei mir schreiben, fasse ich hier zusammen worauf ich besonders viel Wert lege:  
 1. Die Arbeit darf **keine** Rechtschreib- oder Grammatikfehler beinhalten.  
 2. Aussagen, die Kausalzusammenhänge suggerieren, welche nicht im Rahmen der Arbeit oder durch Quellennachweise ableitbar sind - aka "hidden assumptions" - sind aufzudecken und in eigenen Formulierungen zu vermeiden.  
-3. Ich stehe auf klare & sachgerechte Begriffsabgrenzungen.  
+3. Ich lege viel Wert auf klare & sachgerechte Begriffsabgrenzungen.  
 4. Für eine ganzheitliche wissenschaftliche Arbeit empfehle ich eine starke Diversifikation bei der Quellenauswahl.     
 5. Die Arbeit soll klar strukturiert und wie ein spannendes wissenschaftliches Buch zu lesen sein. Exkurs: "Storytelling PLUS Wissenschaft" - e.g. victim, aggressor, hero, guide - (1.0 Anregung).    
 6. Ich empfehle Euch unterschiedliche Methoden / Werkzeuge anzuwenden (je nach Kontext z.B. ein Value Proposition Canvas, eine User Story Map, eine SWOT Analyse, eine Nutzwertanalys, den Debating Club als Workshop Element etc.) --> Methodenkompetenz nutzen.   
@@ -99,8 +99,14 @@ Ein direkter Verweis erscheint nicht sinnvoll, da die PA regelmäßig nicht öff
 **Ich stehe ganz am Anfang und habe Schwierigkeiten mit der Strukturierung. Was kann ich tun?**  
 In diesem Fall empfehle ich das Thema zunächst relativ ganzheitlich zu erkunden und nebenbei ein [Glossar](https://www.lektorat-bachelorarbeit.de/glossar-erstellen/) anzufertigen. Selbst wenn einzelne Begriffe darin sich später als relativ irrelevant herauskristallisieren und vielleicht sogar wieder aus dem Glossar gelöscht werden, hilft dies oft bei der Erarbeitung der Inhalte und der Struktur.
 
-**Welche Tipps haben Sie für die Formulierung der Forschungsfrage?**
-Hier verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/). Zur Erarbeitung der Forschungsfrage stehe ich auch stets gerne zum Brainstorming zur Verfügung.
+**Welche Tipps haben Sie für die Formulierung der Forschungsfrage?**  
+Hier verweise ich gerne auf Seiten wie [diese](https://www.scribbr.de/anfang-abschlussarbeit/forschungsfrage-formulieren/). 
+Ich empfehle frühzeitig eine Liste zu möglichen Forschungsfragen anzufertigen und diese möglichst täglich zu ergänzen. Dadurch erhältst Du ein klareres Bild zu Deinem Thema und übst Dich darin dieses aus unterschiedlichen Perspektiven zu begreifen.  
+
+Zur Erarbeitung der Forschungsfrage stehe ich auch stets gerne zum gemeinsamen Brainstorming zur Verfügung.
+
+**Welche Methodik passt am besten zu meinem Thema und mir?**  
+Nachdem Du Dir einen Überblick über [Grundlagen zur Methodik](https://www.scribbr.de/category/methodik/) verschafft hast, und eine Liste zu möglichen Forschungsfragen angefertigt hast, empfehle ich Dir Spaziergänge mit einem Spickzettel (mit möglichen Forschungsfragen und möglichen Methodiken) in der Hand. Das kann Dir dabei helfen vieles passend einzusortieren und im Zeitablauf ein klares Bild zu entwickeln.  
 
 **Haben Sie weitere Tipps?**  
 Arbeitet so als wäre Euer Abgabetermin drei Wochen vor dem eigentlichen Abgabetermin.  
